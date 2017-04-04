@@ -5,8 +5,8 @@ import java.io.InputStreamReader;
  *
  */
 public class OrdenarPorSeleccion {
-	final static int MAX=10;
-	final static int MAXNUM=20;
+	final static int MAX=5;
+	final static int MAXNUM=100000;
 	
 	public void seleccion(int arr[]) {
 		int i, j, menor, pos, tmp;
